@@ -41,4 +41,7 @@ div.ui.segment img{
     min-height: 100%
 }
 
+.ui.stackable.three.column.grid{
+	padding:50px 100px;
+}
 
